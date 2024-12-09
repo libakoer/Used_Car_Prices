@@ -3,10 +3,10 @@ Artur Tamm
 Martin Kõnnussaar
 
 # Goal
-The goal of the project is to analyze used car sale listings data and find out what features of an used car impact it's price the most.
+The goal of the project is to analyze used car sale listings data and find out what features of an used car impact it's price the most and make a prediction model.
 
 # Repository
-In the scientificProject folder, we have sample.ipynb which is the main notebook for data processing and visualization. There's also the data folder, which is meant for storing datasets and the visualizations folder, which contains generated graphs.
+In the scientificProject folder, we have sample.ipynb which is the main notebook for data processing and visualization. There's also the data folder, which is meant for storing datasets and the visualizations folder, which contains generated graphs. The notebooks titled with Algne and Proov are for prediction model.
 
 # Running the code
 1. Download any number of different versions of datasets from https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/ to data folder.
@@ -14,4 +14,4 @@ In the scientificProject folder, we have sample.ipynb which is the main notebook
 3. Run the sample.ipynb jupyter notebook.
 4. Run process_all_vehicle_files with the parameter of "data".
 5. Run the other functions in the following codeblocks.
-
+6. For prediction model first read Algne10 and then run all the other files that match the description of Algne10.
